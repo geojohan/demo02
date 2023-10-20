@@ -5,6 +5,7 @@
 echo "This is Demo 02 app";
 $today=date("Ymd");
 echo "<br>Today is: " . "$today";
+echo "<br>"
 ?>
 
 </html>
